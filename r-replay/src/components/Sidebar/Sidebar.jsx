@@ -8,15 +8,11 @@ function Sidebar() {
         <ul>
           {articles.map((item, index) =>
             <li key={index.id}>
-<a href={item.href}>{item.title}</a>
-
+              <a href={item.href}>{item.title}</a>
             </li>
-            
-            )}
-         
+          )}
         </ul>
       </nav>
-
     </div>
   )
 }

@@ -1,9 +1,9 @@
-.App{
+.App {
     min-width: 600px;
     margin: 0 auto;
     display: grid;
     grid-template-areas:
-    "h h h"
-    "m m s"
-    "f f f" ;
+        "h h h"
+        "m m s"
+        "f f f";
 }
