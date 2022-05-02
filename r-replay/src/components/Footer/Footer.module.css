@@ -1,0 +1,10 @@
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color:black;
+    grid-area: f;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    
+}
