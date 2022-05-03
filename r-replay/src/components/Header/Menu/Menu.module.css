@@ -1,0 +1,15 @@
+.container{
+    min-width: 600px auto; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.lists {
+    display: flex;
+  
+}
+.list{
+    list-style-type: none;
+    justify-content: space-between;
+    padding-left: 15px;
+}
