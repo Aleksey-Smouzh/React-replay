@@ -4,7 +4,7 @@ import {NavLink} from 'react-router-dom'
 import users3 from "./Users3.module.css"
 function Users3() {
     let url= useLocation();
-    
+    console.log(url)
   return (
     <div className={users3.container}>
         

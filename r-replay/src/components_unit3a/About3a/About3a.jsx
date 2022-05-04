@@ -1,6 +1,6 @@
 import React from 'react'
 
-function About3() {
+function About3a() {
     return (
         <div>
 
@@ -9,4 +9,4 @@ function About3() {
     )
 }
 
-export default About3
+export default About3a
