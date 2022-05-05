@@ -8,6 +8,7 @@ function Header3a() {
             <ul><NavLink to="/">Home</NavLink></ul>
             <ul><NavLink to="/about">About</NavLink></ul>
             <ul><NavLink to="/category">Category</NavLink></ul>
+            
         </nav>
         </div>
   )
